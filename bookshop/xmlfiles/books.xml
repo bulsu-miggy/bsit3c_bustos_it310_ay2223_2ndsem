@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- DTD Declaration - Internal -->
+<!DOCTYPE books SYSTEM "Bookstore.dtd">
+<books> 
+  <book category="cooking">
+    <title lang="en">Everyday Italian</title>
+    <author>Giada De Laurentiis</author>
+    <year>2005</year>
+    <price>30.00</price>
+    <media type="image">EverydayItalian.jpg</media>
+  </book>
+  <book category="fiction">
+    <title lang="en">Harry Potter and The Philosophers Stone</title>
+    <author>J K. Rowling</author>
+    <year>2005</year>
+    <price>29.99</price>
+    <media type="image">HarryPotterAndThePhilosophersStone.jpg</media>
+  </book>
+  <book category="novel">
+    <title lang="en">The Alchemist</title>
+    <author>Paolo Coelho</author>
+    <year>1993</year>
+    <price>29.99</price>
+    <media type="image">TheAlchemist.jpg</media>
+  </book>
+  <book category="novel">
+    <title lang="en">For Whom the Bell Tolls</title>
+    <author>Ernest Hemingway</author>
+    <year>1940</year>
+    <price>30.00</price>
+    <media type="image">ForWhomTheBellTolls.jpg</media>
+  </book>
+  <book category="fiction">
+    <title lang="en">Foundation and Earth</title>
+    <author>Isaac Asimov</author>
+    <year>1986</year>
+    <price>35.99</price>
+    <media type="image">FoundationAndEarth.jpg</media>
+  </book>
+  <book category="novel">
+    <title lang="en">Shakespeare's Tragedies: Macbeth, Othello, King Lear and Hamlet</title>
+    <author>William Shakespeare</author>
+    <year>2016</year>
+    <price>18.00</price>
+    <media type="image">ShakeperesTragedies.jpg</media>
+  </book>
+</books>
