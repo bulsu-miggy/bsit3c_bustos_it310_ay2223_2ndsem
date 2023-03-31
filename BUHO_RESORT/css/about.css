@@ -1,0 +1,58 @@
+body {
+    font-family: Cursive;
+    color:white;
+    margin: 0;
+    
+  }
+.content{
+    position:absolute;
+    left:60px;
+    top:100px;
+}
+  .column {
+    width: 20%;
+    margin-bottom: 16px;
+    display:block;
+    position:absolute;
+    top:130px;
+    left:60%;
+    background-color: aliceblue;
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 8px;
+  }
+  
+
+  .container {
+        padding: 0 16px;
+  }
+  
+  .container::after, .row::after {
+    content: "";
+    clear: both;
+    display: table;
+    
+  }
+  
+  .title {
+    color: rgb(0, 0, 0);
+  }
+  .button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    text-decoration: none;
+  }
+  
+  .button:hover {
+    background-color: #555;
+  }
+ 
